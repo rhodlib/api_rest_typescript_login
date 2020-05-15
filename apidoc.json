@@ -1,0 +1,6 @@
+{
+    "name": "TypeScript REST API",
+    "version": "0.1.0",
+    "description": "REST API template using TypeScript, Node.js and MongoDB",
+    "title": "TypeScript login template API "
+}
